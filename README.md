@@ -1,4 +1,4 @@
-![Cavinato's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavinatto&show_icons=true&theme=dark&icon_color=9c9c9c&text_color=FFFFFF&title_color=9c9c9c)
+![Cavinato's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavinatto&show_icons=true&theme=dark&icon_color=9c9c9c&text_color=FFFFFF&title_color=9c9c9c&bg_color=000000)
 
 ## <i> Experience </i>
 
