@@ -11,3 +11,9 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </div>
+
+## <i> Currently Learning </i>
+
+<div align="center">
+    <img alt="Ghidra" src="https://raw.githubusercontent.com/thomasync/thomasync/d290fb9e14720024da92bfbe40c5433a80fa96bc/assets/badges/ghidra.svg"/>
+</div>
