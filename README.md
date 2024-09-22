@@ -1,5 +1,5 @@
 ![Cavinato's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavinatto&show_icons=true&theme=dark&icon_color=9c9c9c&text_color=FFFFFF&title_color=9c9c9c&bg_color=000000&border_color=9c9c9c)
-<img align="right" width="370" height="194" src="https://64.media.tumblr.com/ac33e7b25d38f9040634be547c92bb09/tumblr_mw35ziYlVg1se5kcvo1_500.gif"  />
+<img align="right" width="365" height="194" src="https://64.media.tumblr.com/ac33e7b25d38f9040634be547c92bb09/tumblr_mw35ziYlVg1se5kcvo1_500.gif"  />
 
  <h2><b> - Main Skills: </b></h2>
     <div align='center'>
