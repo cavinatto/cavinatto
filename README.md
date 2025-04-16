@@ -1,18 +1,17 @@
 <h1 align="left">Hey! I'm Enzo Cavinato.</h1>
 
- <img align="right" alt="GIF" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="450" height="320" />
+<img align="right" alt="GIF" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="450" height="320" />
 
-<p align="left"> <a href="">
+<div style="max-width: 600px">
 
-- 🎓 Currently studying Analysis and Systems Development
+- 🎓 Currently studying Analysis and Systems Development  
+- 💡 Passionate about development, automation, artificial intelligence, and cloud computing  
+- 🧠 Always exploring new ways to learn and apply knowledge to real-world challenges  
+- 🔧 Focused on programming languages, development tools, and cloud solutions  
+- 🚀 Excited to grow and innovate in the ever-evolving tech world  
 
-- 💡 Passionate about development, automation, artificial intelligence, and cloud computing
+</div>
 
-- 🧠 Always exploring new ways to learn and apply knowledge to real-world challenges
-
-- 🔧 Focused on programming languages, development tools, and cloud solutions
-
-- 🚀 Excited to grow and innovate in the ever-evolving tech world
 
 
 ### Connect with me:
