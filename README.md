@@ -2,9 +2,20 @@
 
  <img align="right" alt="GIF" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="450" height="320" />
 
-<p align="left">
- Hello, I'm Enzo Pelakoski Cavinato, a passionate technology enthusiast currently studying Analysis and Systems Development. I have a strong interest in <b>development, automation, artificial intelligence, and cloud computing.</b> I'm constantly looking for new ways to learn and apply my knowledge to solve real-world challenges, with a focus on exploring innovative technologies and staying up-to-date with industry trends. My academic journey has been focused on deepening my understanding of programming languages, development tools, and cloud solutions, and I'm excited to continue growing and applying my skills in the tech world.
-</p>
+<p align="left"> <a href="">
+
+ - 👋 Hello, I'm Enzo Pelakoski Cavinato
+
+- 🎓 Currently studying Analysis and Systems Development
+
+- 💡 Passionate about development, automation, artificial intelligence, and cloud computing
+
+- 🧠 Always exploring new ways to learn and apply knowledge to real-world challenges
+
+- 🔧 Focused on programming languages, development tools, and cloud solutions
+
+- 🚀 Excited to grow and innovate in the ever-evolving tech world
+
 
 ### Connect with me:
 
