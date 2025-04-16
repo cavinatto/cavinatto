@@ -1,4 +1,4 @@
-<img src="https://github.com/cavinatto/cavinatto/raw/main/github-header-image.png" lt="Banner" />
+<img src="https://github.com/cavinatto/cavinatto/raw/main/github-header-image.png" height="150" alt="Banner" />
 
 
 <h1 align="left">👋 Hello, I'm Enzo Cavinato.</h1>
