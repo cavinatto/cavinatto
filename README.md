@@ -1,6 +1,3 @@
-<img src="https://github.com/cavinatto/cavinatto/raw/main/github-header-image.png" height="200" alt="Banner" />
-
-
 <h1 align="left">👋 Hello, I'm Enzo Cavinato.</h1>
 
 <table>
@@ -15,7 +12,7 @@
 
     </td>
     <td>
-      <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="450" height="320"/>
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="460" height="270"/>
     </td>
   </tr>
 </table>
