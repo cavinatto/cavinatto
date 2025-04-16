@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="450" height="320" />
 
-<div style="max-width: 600px">
+<div style="max-width: 600px; padding-right: 470px; box-sizing: border-box;">
 
 - 🎓 Currently studying Analysis and Systems Development  
 - 💡 Passionate about development, automation, artificial intelligence, and cloud computing  
