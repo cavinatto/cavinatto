@@ -1,4 +1,4 @@
-<img src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg" width="100%" alt="Banner" />
+<img src="https://github.com/cavinatto/cavinatto/raw/main/github-header-image.png" lt="Banner" />
 
 
 <h1 align="left">👋 Hello, I'm Enzo Cavinato.</h1>
