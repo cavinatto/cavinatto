@@ -34,7 +34,7 @@
 
 ### Statistics:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=cavinatto&show_icons=true&theme=tokyonight" width="355" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cavinatto&show_icons=true&theme=tokyonight" width="500" style="display: inline-block;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavinatto&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" width="355" style="display: inline-block;"/>
 </div>
