@@ -1,17 +1,16 @@
-<h1 align="left">👋 Olá! Me chamo Enzo Cavinato.</h1>
+<h1 align="left">Hey! I'm Enzo Cavinato.</h1>
 
  <img align="right" alt="GIF" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="450" height="320" />
 
 <p align="left">
- Hello, I'm Enzo Cavinato, currently studying Analysis and Systems Development. I'm passionate about technology and always looking for new ways to learn and apply my knowledge in development, automation, artificial intelligence, and cloud. Throughout my academic journey, I'm deepening my understanding of programming languages, development tools, and cloud solutions.
+ Hello, I'm Enzo Pelakoski Cavinato, a passionate technology enthusiast currently studying Analysis and Systems Development. I have a strong interest in development, automation, artificial intelligence, and cloud computing. I'm constantly looking for new ways to learn and apply my knowledge to solve real-world challenges, with a focus on exploring innovative technologies and staying up-to-date with industry trends. My academic journey has been focused on deepening my understanding of programming languages, development tools, and cloud solutions, and I'm excited to continue growing and applying my skills in the tech world.
 </p>
-<hr>
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/enzo-pelakoski-cavinato-7b655a306)
-[![Discord](https://img.shields.io/badge/Discord-%237291C1?style=flat&logo=discord&logoColor=white)](https://discord.com/users/kowaaa)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:enzopcavinato@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-pelakoski-cavinato-7b655a306) &nbsp;
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kowaaa) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=enzopcavinato@gmail.com)
 <hr>
 
 ### Languages and Tools:
