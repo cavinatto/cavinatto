@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="">
 
- - 👋 Hello, I'm Enzo Pelakoski Cavinato
-
 - 🎓 Currently studying Analysis and Systems Development
 
 - 💡 Passionate about development, automation, artificial intelligence, and cloud computing
