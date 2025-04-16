@@ -7,6 +7,13 @@
 </p>
 <hr>
 
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/enzo-pelakoski-cavinato-7b655a306)
+[![Discord](https://img.shields.io/badge/Discord-%237291C1?style=flat&logo=discord&logoColor=white)](https://discord.com/users/kowaaa)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:enzopcavinato@gmail.com)
+<hr>
+
 ### Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="30"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="30"/> &nbsp;&nbsp;
